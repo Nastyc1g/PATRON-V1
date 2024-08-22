@@ -94,7 +94,7 @@ AINT AVAILABLE FOR NOW
 
 
 #### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [PATRON-V1](https://github.com/Itzpatron/PATRON-V1) ON ANY TERMINAL
-> Pair and upload cred to session folder first
+
 ```
 sudo apt -y update && sudo apt -y upgrade
 ```
@@ -127,6 +127,7 @@ npm start
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 # Termux Deployment
+
 ```
 termux-setup-storage
 ```
